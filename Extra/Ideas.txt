@@ -1,0 +1,2 @@
+# Ambientaciones -> hielo, tierra
+# Cuando se instancia una ball, poner una rotacion aleatoria
