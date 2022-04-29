@@ -201,6 +201,8 @@
 ```
 * Si la posicion Y es menor a -6, es decir, sobre paso el limite de la pantalla en el eje Y, destruimos la ball y perdemos una vida
 
+---
+
 ### Colision con el ring
 ```c#
     void OnTriggerEnter2D(Collider2D other)
