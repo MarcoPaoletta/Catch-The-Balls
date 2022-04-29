@@ -35,7 +35,7 @@
 
 ---
 
-# Script [Ring.cs](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Ring.cs)
+# Script [Ring](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Ring.cs)
 
 ### Variables
 ```c#
@@ -168,7 +168,7 @@
 
 ---
 
-# Script [Counter.cs](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Counter.cs)
+# Script [Counter](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Counter.cs)
 
 ### Actualizar el texto del canvas
 ```c#
@@ -186,7 +186,7 @@
 
 ---
 
-# Script [Ball.cs](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Ball.cs)
+# Script [Ball](https://github.com/MarcoPaoletta/Catch-The-Balls/blob/main/Assets/Scripts/Ball.cs)
 
 ### Limite inferior
 ```c#
